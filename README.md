@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The source code for the paper: FrMi: Fault-revealing Mutant Identification using killability severity [link](https://www.sciencedirect.com/science/article/abs/pii/S0950584923001623)
+The source code for the paper: FrMi: Fault-revealing Mutant Identification using killability severity [(link)](https://www.sciencedirect.com/science/article/abs/pii/S0950584923001623)
 
 ## Data
 
