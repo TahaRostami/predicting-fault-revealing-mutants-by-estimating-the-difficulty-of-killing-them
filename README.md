@@ -1,5 +1,9 @@
 # predicting fault-revealing mutants by estimating the difficulty of killing them
 
+## Introduction
+
+The source code for the paper: FrMi: Fault-revealing Mutant Identification using killability severity [link](https://www.sciencedirect.com/science/article/abs/pii/S0950584923001623)
+
 ## Data
 
 Thanks to Titcheu Chekam et al., the original datasets are available at   https://mutationtesting.uni.lu/farm/.
